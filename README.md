@@ -1,9 +1,26 @@
-# React + Vite
+# Proyecto Videojuegos con React 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto de una aplicación web de videojuegos con React.
+Permite a los usuarios buscar, filtrar y obtener detalles de videojuegos.
 
-Currently, two official plugins are available:
+🚀 Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# videojuego
+- React → Para construir la interfaz de usuario.
+- React Router → Para la navegación entre páginas.
+- Bootstrap → Para estilos y diseño responsivo.
+- Fetch API → Para realizar solicitudes HTTP
+- API de videojuegos (RAWG API) → Para obtener datos de videojuegos.
+
+⚡ Funcionalidades
+
+🎯 Listado de videojuegos
+🔍 Búsqueda de videojuegos
+📂 Filtrado
+📜 Detalle de videojuegos
+📱 Diseño responsivo
+
+🌐 API
+
+Este proyecto utiliza la API de videojuegos de RAWG.
+
+👩‍💻 Desarrollado por Carolina Castillo
